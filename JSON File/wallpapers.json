@@ -1,24 +1,20 @@
-{ 
-"wallpapers": 
-	[ 
-		{
-			"author": "John Jason",
-			"url": "https://raw.githubusercontent.com/Grabstertv/grabsterwalls/master/Wallpapers/Full%20Resolution/Dusk.jpg",
-			"thumbnail": "https://raw.githubusercontent.com/Grabstertv/grabsterwalls/master/Wallpapers/Thumbnails/Roads_thumb.jpg",
-			"name": "Dusk"
-		},
-		{
-			"author": "Juan M. Saracho",
-			"url": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/1MaterialCircles/CirclesGreen.png",
-			"name": "Green Circles"
-		},
-		{
-			"author": "Juan M. Saracho",
-			"url": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/1MaterialCircles/CirclesOrange.png",
-			"name": "Orange Circles"
-		},
-		{
-			"author": "Juan M. Saracho",
-			"url": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/1MaterialCircles/CirclesPurple.png",
-			"name": "Purple Circles"
-},
+[
+	{
+		"name": "My wallpaper",
+		"author": "Jahir Fiquitiva",
+		"url": "https://www.mywebsite.com/wallpapers/my_wallpaper.png",
+		"thumbnail": "https://www.mywebsite.com/wallpapers/thumbnails/my_wallpaper.png",
+		"downloadable": true,
+		"size": 345066,
+		"dimensions": "1280 x 720 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My other wallpaper",
+		"author": "Jahir Fiquitiva",
+		"url": "https://www.mywebsite.com/wallpapers/my_other_wallpaper.png",
+		"thumbnail": "https://www.mywebsite.com/wallpapers/thumbnails/my_other_wallpaper.png",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	}
+]
