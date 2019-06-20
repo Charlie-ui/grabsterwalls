@@ -1,26 +1,24 @@
-	{
-		"name": "Dusk",
-		"author": "John Jason",
-		"url": "https://raw.githubusercontent.com/Grabstertv/grabsterwalls/master/Wallpapers/Full%20Resolution/Dusk.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/KustomIndustries/KAPK-Walls/master/Wallpapers/Thumbnails/Dusk_thumb.jpg",
-		"downloadable": false,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	},
- 
-	{
-		"name": "Roads",
-		"author": "Ludovic Fremondiere",
-		"url": "https://raw.githubusercontent.com/Grabstertv/grabsterwalls/master/Wallpapers/Full%20Resolution/Roads.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/KustomIndustries/KAPK-Walls/master/Wallpapers/Thumbnails/Roads_thumb.jpg",
-		"downloadable": true,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	}
-  
-  {
-		"name": "",
-		"author": "",
-		"url": "",
-		"thumbnail": "",
-		"downloadable": false,
-		"copyright": ""
-	}
+{ 
+"wallpapers": 
+	[ 
+		{
+			"author": "John Jason",
+			"url": "https://raw.githubusercontent.com/Grabstertv/grabsterwalls/master/Wallpapers/Full%20Resolution/Dusk.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/KustomIndustries/KAPK-Walls/master/Wallpapers/Thumbnails/Dusk_thumb.jpg",
+			"name": "Dusk"
+		},
+		{
+			"author": "Juan M. Saracho",
+			"url": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/1MaterialCircles/CirclesGreen.png",
+			"name": "Green Circles"
+		},
+		{
+			"author": "Juan M. Saracho",
+			"url": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/1MaterialCircles/CirclesOrange.png",
+			"name": "Orange Circles"
+		},
+		{
+			"author": "Juan M. Saracho",
+			"url": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/1MaterialCircles/CirclesPurple.png",
+			"name": "Purple Circles"
+},
