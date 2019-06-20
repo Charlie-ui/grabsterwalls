@@ -3,12 +3,67 @@
         [
                 {
                 
-		"name": "My wallpaper",
-		"author": "Jahir Fiquitiva",
-		"url": "https://raw.githubusercontent.com/Grabstertv/grabsterwalls/master/Wallpapers/Full%20Resolution/Dusk.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/Grabstertv/grabsterwalls/master/Wallpapers/Thumbnails/Dusk_thumb.jpg",
+		"name": "Glass Glow",
+		"author": "Grabster",
+		"url": "https://raw.githubusercontent.com/Grabstertv/grabsterwalls/master/Wallpapers/Full%20Resolution/Wall_1.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/Grabstertv/grabsterwalls/master/Wallpapers/Thumbnails/Wall_1.png",
 		"downloadable": false,
-		"copyright": "CreativeCommons Attribution-ShareALike"
+		"copyright": "CreativeCommons Attribution, Credits required"
+			
+                },
+		
+		{
+                
+		"name": "One Lined",
+		"author": "Grabster",
+		"url": "https://raw.githubusercontent.com/Grabstertv/grabsterwalls/master/Wallpapers/Full%20Resolution/Wall_2.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/Grabstertv/grabsterwalls/master/Wallpapers/Thumbnails/Wall_2.png",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution, Credits required"
+			
+                },
+		
+		{
+                
+		"name": "Overlap One",
+		"author": "Grabster",
+		"url": "https://raw.githubusercontent.com/Grabstertv/grabsterwalls/master/Wallpapers/Full%20Resolution/Wall_3.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/Grabstertv/grabsterwalls/master/Wallpapers/Thumbnails/Wall_3.png",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution, Credits required"
+			
+                },
+		
+		{
+                
+		"name": "Gradient Sunset",
+		"author": "Grabster",
+		"url": "https://raw.githubusercontent.com/Grabstertv/grabsterwalls/master/Wallpapers/Full%20Resolution/Wall_4.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/Grabstertv/grabsterwalls/master/Wallpapers/Thumbnails/Wall_4.png",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution, Credits required"
+			
+                },
+		
+		{
+                
+		"name": "Overlap Two",
+		"author": "Grabster",
+		"url": "https://raw.githubusercontent.com/Grabstertv/grabsterwalls/master/Wallpapers/Full%20Resolution/Wall_5.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/Grabstertv/grabsterwalls/master/Wallpapers/Thumbnails/Wall_5.png",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution, Credits required"
+			
+                },
+		
+		{
+                
+		"name": "Grabster Logo",
+		"author": "Grabster",
+		"url": "https://raw.githubusercontent.com/Grabstertv/grabsterwalls/master/Wallpapers/Full%20Resolution/Wall_6.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/Grabstertv/grabsterwalls/master/Wallpapers/Thumbnails/Wall_6.png",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution, Credits required"
 			
                 },
 
