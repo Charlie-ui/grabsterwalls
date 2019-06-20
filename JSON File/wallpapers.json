@@ -1,20 +1,14 @@
-[
-	{
-		"name": "My wallpaper",
-		"author": "Jahir Fiquitiva",
-		"url": "https://www.mywebsite.com/wallpapers/my_wallpaper.png",
-		"thumbnail": "https://www.mywebsite.com/wallpapers/thumbnails/my_wallpaper.png",
-		"downloadable": true,
-		"size": 345066,
-		"dimensions": "1280 x 720 px",
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	},
-	{
-		"name": "My other wallpaper",
-		"author": "Jahir Fiquitiva",
-		"url": "https://www.mywebsite.com/wallpapers/my_other_wallpaper.png",
-		"thumbnail": "https://www.mywebsite.com/wallpapers/thumbnails/my_other_wallpaper.png",
-		"downloadable": false,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	}
-]
+{
+    {
+      "author": "Someone Designer",
+      "url": "https://raw.githubusercontent.com/Grabstertv/grabsterwalls/master/Wallpapers/Full%20Resolution/Dusk.jpg",
+      "thumb": "https://raw.githubusercontent.com/Grabstertv/grabsterwalls/master/Wallpapers/Thumbnails/Dusk_thumb.jpg",
+      "name": "Wallpaper 1"
+    },
+    {
+      "author": "Someone Designer",
+      "url": "http://pic.youmobile.org/imgcdn/bkg_08_august.jpg",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image491322.jpg",
+      "name": "Wallpaper 2" 
+    }
+},
