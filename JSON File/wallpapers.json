@@ -66,6 +66,51 @@
 		"copyright": "CreativeCommons Attribution, Credits required"
 			
                 },
+		
+		{
+                
+		"name": "Liquid One",
+		"author": "Grabster",
+		"url": "https://raw.githubusercontent.com/Grabstertv/grabsterwalls/master/Wallpapers/Full%20Resolution/Wall_7.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/Grabstertv/grabsterwalls/master/Wallpapers/Thumbnails/Wall_7.png",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution, Credits required"
+			
+                },
+		
+		{
+                
+		"name": "Liquid Two",
+		"author": "Grabster",
+		"url": "https://raw.githubusercontent.com/Grabstertv/grabsterwalls/master/Wallpapers/Full%20Resolution/Wall_8.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/Grabstertv/grabsterwalls/master/Wallpapers/Thumbnails/Wall_8.png",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution, Credits required"
+			
+                },
+		
+		{
+                
+		"name": "Liquid Three",
+		"author": "Grabster",
+		"url": "https://raw.githubusercontent.com/Grabstertv/grabsterwalls/master/Wallpapers/Full%20Resolution/Wall_9.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/Grabstertv/grabsterwalls/master/Wallpapers/Thumbnails/Wall_9.png",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution, Credits required"
+			
+                },
+		
+		{
+                
+		"name": "",
+		"author": "Grabster",
+		"url": "",
+		"thumbnail": "",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution, Credits required"
+			
+                },
+		
 
         ]
 }
