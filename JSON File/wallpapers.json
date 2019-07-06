@@ -100,6 +100,50 @@
 			
                 },
 		
+		{
+                
+		"name": "YouTube Space Map (Dark)",
+		"author": "Grabster",
+		"url": "https://raw.githubusercontent.com/Grabstertv/grabsterwalls/master/Wallpapers/Full%20Resolution/Wall_11.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/Grabstertv/grabsterwalls/master/Wallpapers/Thumbnails/Wall_11.jpg",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution, Credits required"
+			
+                },
+		
+		{
+                
+		"name": "YouTube Space Map (Light)",
+		"author": "Grabster",
+		"url": "https://raw.githubusercontent.com/Grabstertv/grabsterwalls/master/Wallpapers/Full%20Resolution/Wall_12.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/Grabstertv/grabsterwalls/master/Wallpapers/Thumbnails/Wall_12.jpg",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution, Credits required"
+			
+                },
+		
+		{
+                
+		"name": "Bacon (Dark)",
+		"author": "Grabster",
+		"url": "https://raw.githubusercontent.com/Grabstertv/grabsterwalls/master/Wallpapers/Full%20Resolution/Wall_13.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/Grabstertv/grabsterwalls/master/Wallpapers/Thumbnails/Wall_13.jpg",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution, Credits required"
+			
+                },
+		
+		{
+                
+		"name": "Bacon (Light)",
+		"author": "Grabster",
+		"url": "https://raw.githubusercontent.com/Grabstertv/grabsterwalls/master/Wallpapers/Full%20Resolution/Wall_14.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/Grabstertv/grabsterwalls/master/Wallpapers/Thumbnails/Wall_14.jpg",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution, Credits required"
+			
+                },
+		
 
         ]
 }
