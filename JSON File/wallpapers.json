@@ -1,6 +1,49 @@
 {
 "wallpapers":
         [
+		{
+                
+		"name": "Abstract Four",
+		"author": "Grabster",
+		"url": "https://github.com/Grabstertv/grabsterwalls/blob/master/Wallpapers/Full%20Resolution/wall_26.jpg?raw=true",
+		"thumbnail": "https://github.com/Grabstertv/grabsterwalls/blob/master/Wallpapers/Full%20Resolution/wall_26.jpg?raw=true",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution, Credits required"
+			
+                },
+		
+		{
+                
+		"name": "Abstract Three",
+		"author": "Grabster",
+		"url": "https://github.com/Grabstertv/grabsterwalls/blob/master/Wallpapers/Full%20Resolution/wall_25.jpg?raw=true",
+		"thumbnail": "https://github.com/Grabstertv/grabsterwalls/blob/master/Wallpapers/Full%20Resolution/wall_25.jpg?raw=true",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution, Credits required"
+			
+                },
+		
+		{
+                
+		"name": "Abstract Two",
+		"author": "Grabster",
+		"url": "https://github.com/Grabstertv/grabsterwalls/blob/master/Wallpapers/Full%20Resolution/wall_24.jpg?raw=true",
+		"thumbnail": "https://github.com/Grabstertv/grabsterwalls/blob/master/Wallpapers/Full%20Resolution/wall_24.jpg?raw=true",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution, Credits required"
+			
+                },
+		
+		{
+                
+		"name": "Abstract One",
+		"author": "Grabster",
+		"url": "https://github.com/Grabstertv/grabsterwalls/blob/master/Wallpapers/Full%20Resolution/wall_23.jpg?raw=true",
+		"thumbnail": "https://github.com/Grabstertv/grabsterwalls/blob/master/Wallpapers/Full%20Resolution/wall_23.jpg?raw=true",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution, Credits required"
+			
+                },
 		
 		
 		{
